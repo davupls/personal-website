@@ -46,3 +46,12 @@ h2{
 h2{
     font-style: italic;
 }
+
+.list-title {
+    margin-top: 2rem;
+    padding: 1rem;
+}
+
+.list-item li{
+    padding: 5px;
+}
